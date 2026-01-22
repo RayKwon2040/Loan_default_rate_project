@@ -13,7 +13,7 @@
 ## Exploratory Data Analysis
 
 
-![EDA1](IMAGE_LOANDEFUALT/EDA1.PNG)
+![EDA1](IMAGE_LOANDEFUALT/EDA1.png)
 
 
 * Classes are highly imbalanced - Only 14% of total customers failed to repay.
