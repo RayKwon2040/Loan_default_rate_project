@@ -9,3 +9,6 @@
 ## Project Workflow
 
 ![workflow](workflow1.PNG)
+
+## Exploratory Data Analysis
+
