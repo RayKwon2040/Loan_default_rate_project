@@ -47,7 +47,7 @@
 ![FE](IMAGE_LOANDEFUALT/FeatureEngineering.PNG)
 
 
-* Target Encoding on state variables -> SMOTE for imbalanced default class -> Scaling for Logistic Regression
+### * Target Encoding on state variables -> SMOTE for imbalanced default class -> Scaling for Logistic Regression
 
 
 
