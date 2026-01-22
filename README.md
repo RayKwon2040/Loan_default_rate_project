@@ -56,9 +56,9 @@
 
 ## Feature importance 
 
-![FI](IMAGE_LOANDEFUALT/FeatureEngineering.PNG)
+![FI](IMAGE_LOANDEFUALT/featureimportance.png)
 
-#### There are some important features that contribute most to default rate.
+#### There are some important features that contribute most to the default rate.
 
 * Total_rec_prncp (Principal received to date) : Borrowers who paid back more principal are less likely to default
 * Funded_amnt(The total amount committed by investors for that loan at that point in time): Larger loans increase the chance of default.
