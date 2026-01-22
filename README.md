@@ -8,4 +8,4 @@
 
 ## Project Workflow
 
-
+![workflow](workflow1.PNG)
