@@ -31,4 +31,17 @@
 * Borrowers in California received the largest number of loans among all states, and roughly 50% of them — the highest rate — failed to repay.
 * Borrowers with short-term loans (36 months) are more likely to default due to higher interest rates compared to long-term loans and a tighter repayment schedule
 
+### EDA3
 
+![EDA1](IMAGE_LOANDEFUALT/EDA3.png)
+
+
+#### When does default happen more frequently?
+
+* When interest rates rise above 10%, more customers fail to repay compared to those who do not.
+* When the DTI (Debt-to-Income ratio) exceeds 13%, the default rate is higher than the non-default rate.
+* When the revolving credit line utilization exceeds 50%, the default rate surpasses the non-default rate.
+
+## Feature Engineering
+
+![FE](IMAGE_LOANDEFUALT/Feature Engineering.png)
