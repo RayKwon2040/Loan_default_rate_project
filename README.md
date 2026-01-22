@@ -20,9 +20,7 @@
 
 
 
-
-
-![EDA2](IMAGE_LOANDEFUALT/EDA2.png)
+![EDA2](IMAGE_LOANDEFUALT/EDA2.png)<br>
 
 
 ### Key Findings
