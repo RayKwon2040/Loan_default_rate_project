@@ -49,5 +49,9 @@
 
 ### * Target Encoding on state variables -> SMOTE for imbalanced default class -> Scaling for Logistic Regression
 
+## Model Development 
+
+
+
 
 
