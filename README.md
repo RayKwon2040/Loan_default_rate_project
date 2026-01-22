@@ -56,7 +56,7 @@
 
 ## Feature importance 
 
-![FI](IMAGE_LOANDEFUALT/featureimportance.PNG)
+![FI](IMAGE_LOANDEFUALT/FeatureEngineering.PNG)
 
 #### There are some important features that contribute most to default rate.
 
@@ -67,7 +67,11 @@
 
 * ## Conclusion
 
-* ### In conclusion, six models were developed to predict the default rate. When XGBoost model was fine-tuned with the best parameters ({'colsample_bytree': 1.0, 'learning_rate': 0.2, 'max_depth': 5, 'n_estimators': 100, 'subsample': 0.8}), it achieved the best performance across all four metrics — accuracy, precision, recall, and F1 score. Feature engineering also helped XGBoost model in terms of SMOTE, target, and one-hot encoding. As a result, XGBoost model predicts default rate with nearly 99% accuracy, demonstrating a moderate trade-off between precision and recall.
+* ### In conclusion, six models were developed to predict the default rate. When XGBoost model was fine-tuned with the best parameters ({'colsample_bytree': 1.0, 'learning_rate': 0.2, 'max_depth': 5, 'n_estimators': 100, 'subsample': 0.8}), it achieved the best performance across all four metrics — accuracy, precision, recall, and F1 score.
+*
+* ### Feature engineering also helped XGBoost model in terms of SMOTE, target, and one-hot encoding.
+*
+* ### As a result, XGBoost model predicts default rate with nearly 99% accuracy, demonstrating a moderate trade-off between precision and recall.
 
 
 
