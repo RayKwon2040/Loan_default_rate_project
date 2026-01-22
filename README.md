@@ -18,6 +18,10 @@
 
 * Classes are highly imbalanced - Only 14% of total customers failed to repay.
 
+
+
+
+
 ![EDA2](IMAGE_LOANDEFUALT/EDA2.png)
 
 
