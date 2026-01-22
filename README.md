@@ -12,20 +12,23 @@
 
 ## Exploratory Data Analysis
 
+### EDA1
 
 ![EDA1](IMAGE_LOANDEFUALT/EDA1.png)
 
 
 * Classes are highly imbalanced - Only 14% of total customers failed to repay.
 
-
+### EDA2
 
 ![EDA2](IMAGE_LOANDEFUALT/EDA2.png)<br>
 
 
-### Key Findings
+#### Key Findings
 
 * Most customers rent or own homes under a mortgage, and about half of them failed to repay their debt.
 * The main purpose of the loans is debt consolidation. As interest rates have increased, the likelihood of default has also risen.
 * Borrowers in California received the largest number of loans among all states, and roughly 50% of them — the highest rate — failed to repay.
 * Borrowers with short-term loans (36 months) are more likely to default due to higher interest rates compared to long-term loans and a tighter repayment schedule
+
+
