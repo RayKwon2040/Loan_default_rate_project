@@ -44,7 +44,7 @@
 
 ## Feature Engineering
 
-![EDA1](IMAGE_LOANDEFUALT/FeatureEngineering.png)
+![FE](IMAGE_LOANDEFUALT/FeatureEngineering.png)
 
 
 
