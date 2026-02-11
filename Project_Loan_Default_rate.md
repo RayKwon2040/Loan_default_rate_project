@@ -56,7 +56,7 @@
 
 
 
-![ROC](IMAGE_LOANDEFUALT/rocurve.PNG)
+![ROC](IMAGE_LOANDEFUALT/rocurve.png)
 
 
 ## Feature importance 
