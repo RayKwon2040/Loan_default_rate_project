@@ -4,7 +4,8 @@
 
 * Anonymized Loan Default data includes 37 variables such as loan amount, term, interest rate, installment, employment length, home ownership, annual income, loan status, and purpose, among others.
 
-* Loan default is a critical problem because it causes direct financial losses for lenders, as well as liquidity issues and operational disruptions. Therefore, predictive models must be developed to help prevent these issues, and the goal of the project is to build the best classification model using customer data to predict loan defaults. By leveraging the best model, 
+* Loan default is a critical issue because it leads to direct financial losses for lenders, as well as liquidity problems and operational disruptions. Therefore, predictive models are essential to help mitigate these risks. The goal of this project is to build a high-performing classification model using customer data to predict loan defaults. By leveraging the best-performing model, lenders can better identify and manage risky loans, thereby improving portfolio stability
+  
 
 ## Project Workflow
 
