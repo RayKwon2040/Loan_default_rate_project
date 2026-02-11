@@ -55,6 +55,10 @@
 ![MD](IMAGE_LOANDEFUALT/Modelperformance.PNG)
 
 
+
+![ROC](IMAGE_LOANDEFUALT/rocurve.PNG)
+
+
 ## Feature importance 
 
 ![FI](IMAGE_LOANDEFUALT/featureimportance.png)
